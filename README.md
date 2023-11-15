@@ -9,3 +9,5 @@ Follow the following format:
 ```javascript
 API_KEY='Your Api Key'
 ```
+## Screenshot
+![screenshot](screenshot.png)
